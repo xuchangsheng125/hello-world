@@ -1,2 +1,3 @@
 # hello-world
-my first
+my first  project  
+my name is xu chang sheng .
